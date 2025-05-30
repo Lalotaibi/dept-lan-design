@@ -76,8 +76,3 @@ C:>
 - dept-lan-design.pkt – Cisco Packet Tracer project file  
 - topology.jpg – Network topology screenshot  
 
----
-
-## 📡 Network De– Cisco Packet Tracer project file  
-- project created– Network topology screenshot  
--esign project– Project documentation
