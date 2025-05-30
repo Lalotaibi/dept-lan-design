@@ -73,8 +73,8 @@ C:>
 ---
 
 ## 📁 Files Included
-
--
+- dept-lan-design.pkt – Cisco Packet Tracer project file  
+- topology.jpg – Network topology screenshot  
 
 ---
 
